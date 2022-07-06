@@ -3,6 +3,7 @@ pragma solidity 0.8.9;
 
 import '../erc20/ITestToken.sol';
 import '../nft/ITestNFT.sol';
+
 contract TestGovernance {
 
     ITestToken public testToken;
